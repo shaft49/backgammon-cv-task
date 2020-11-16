@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+pred_dir/
+bgsamples/
+bgsamples_truth.json
+eval.py
+result.txt
